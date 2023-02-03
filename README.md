@@ -1,6 +1,6 @@
 # Linktree App
 
-I build a simple linktree clone with Next.js 13 to & .NET 7 as my backend api.
+I build a simple linktree clone with Next.js 13 & .NET 7 as my backend api.
 
 Finished: 03.02.23  
 
