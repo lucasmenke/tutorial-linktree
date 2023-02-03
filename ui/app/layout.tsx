@@ -12,7 +12,7 @@ export default function RootLayout({
         head.tsx. Find out more at https://beta.nextjs.org/docs/api-reference/file-conventions/head
       */}
       <head />
-      <body>{children}</body>
+      <body className="bg-gradient-to-l from-rose-100 to-teal-100 vh-100">{children}</body>
     </html>
   )
 }
